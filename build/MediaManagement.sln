@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaManagement", "..\ui\MediaManagement\MediaManagement.csproj", "{58C161CD-B2A0-4AC9-BFE8-6A4A14CFB79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogger", "..\ui\NLogger\NLogger.csproj", "{2055C0D2-9E61-410D-B3B1-EA843E1C851F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\ui\Utilities\Utilities.csproj", "{FEB3ED25-677D-479C-8F9E-F5F0B9589143}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UICommon", "UICommon", "{4AB089C9-E79E-4A55-BAE6-7D8E7591863A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaManagement.Infrastructure", "MediaManagement.Infrastructure\MediaManagement.Infrastructure.csproj", "{1D399EBE-39FA-420A-8813-B25C577F125E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C161CD-B2A0-4AC9-BFE8-6A4A14CFB79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C161CD-B2A0-4AC9-BFE8-6A4A14CFB79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C161CD-B2A0-4AC9-BFE8-6A4A14CFB79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C161CD-B2A0-4AC9-BFE8-6A4A14CFB79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2055C0D2-9E61-410D-B3B1-EA843E1C851F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2055C0D2-9E61-410D-B3B1-EA843E1C851F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2055C0D2-9E61-410D-B3B1-EA843E1C851F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2055C0D2-9E61-410D-B3B1-EA843E1C851F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB3ED25-677D-479C-8F9E-F5F0B9589143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB3ED25-677D-479C-8F9E-F5F0B9589143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB3ED25-677D-479C-8F9E-F5F0B9589143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB3ED25-677D-479C-8F9E-F5F0B9589143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D399EBE-39FA-420A-8813-B25C577F125E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D399EBE-39FA-420A-8813-B25C577F125E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D399EBE-39FA-420A-8813-B25C577F125E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D399EBE-39FA-420A-8813-B25C577F125E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D399EBE-39FA-420A-8813-B25C577F125E} = {4AB089C9-E79E-4A55-BAE6-7D8E7591863A}
+	EndGlobalSection
+EndGlobal

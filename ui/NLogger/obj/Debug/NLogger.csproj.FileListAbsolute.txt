@@ -1,0 +1,10 @@
+E:\GitHub\biu-client-windows\build\x86\debug\NLogger.dll
+E:\GitHub\biu-client-windows\build\x86\debug\NLogger.pdb
+E:\GitHub\biu-client-windows\ui\NLogger\obj\Debug\NLogger.csprojResolveAssemblyReference.cache
+E:\GitHub\biu-client-windows\ui\NLogger\obj\Debug\NLogger.dll
+E:\GitHub\biu-client-windows\ui\NLogger\obj\Debug\NLogger.pdb
+E:\GitHub\Media-Management\build\x86\debug\NLogger.dll
+E:\GitHub\Media-Management\build\x86\debug\NLogger.pdb
+E:\GitHub\Media-Management\ui\NLogger\obj\Debug\NLogger.csprojResolveAssemblyReference.cache
+E:\GitHub\Media-Management\ui\NLogger\obj\Debug\NLogger.dll
+E:\GitHub\Media-Management\ui\NLogger\obj\Debug\NLogger.pdb
